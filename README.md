@@ -1,6 +1,6 @@
 # Cross-Modal-Projection-Learning
 
-TensorFlow implementation of **[Deep Cross-Modal Pojection Learning for Image-Text Matching](https://drive.google.com/file/d/1Xp285WFwTZIE6nVu5Hi54ar4fodKsmjy/view)** accepted by ECCV 2018.
+TensorFlow implementation of **[Deep Cross-Modal Projection Learning for Image-Text Matching](https://drive.google.com/file/d/1Xp285WFwTZIE6nVu5Hi54ar4fodKsmjy/view)** accepted by ECCV 2018.
 
 ## Introduction
 We propose a cross-modal projection matching (CMPM) loss and a cross-modal projection classication (CMPC) loss for learning discriminative image-text embeddings. 
